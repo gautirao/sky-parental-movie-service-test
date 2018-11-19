@@ -5,7 +5,9 @@ Prerequisites to run the application :
 2. Install maven from https://maven.apache.org/install.html
 
 In terminal :
+```
 cd ~/Documents/ 
 git clone https://github.com/gautirao/sky-parental-movie-service-test.git
 cd sky-parental-movie-service-test
 mvn clean test
+```
